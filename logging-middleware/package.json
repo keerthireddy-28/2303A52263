@@ -1,0 +1,17 @@
+{
+  "name": "logging-middleware",
+  "version": "1.0.0",
+  "description": "AffordMed Logging Middleware",
+  "main": "logger.js",
+  "scripts": {
+    "start": "node test.js"
+  },
+  "license": "ISC",
+  "keywords": [],
+  "author": "",
+  "type": "commonjs",
+  "dependencies": {
+    "axios": "^1.18.0",
+    "dotenv": "^17.4.2"
+  }
+}
